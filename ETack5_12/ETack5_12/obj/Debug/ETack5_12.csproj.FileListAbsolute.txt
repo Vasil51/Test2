@@ -1,0 +1,7 @@
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\bin\Debug\ETack5_12.exe.config
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\bin\Debug\ETack5_12.exe
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\bin\Debug\ETack5_12.pdb
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\obj\Debug\ETack5_12.csprojAssemblyReference.cache
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\obj\Debug\ETack5_12.csproj.CoreCompileInputs.cache
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\obj\Debug\ETack5_12.exe
+C:\Users\Учитель\source\repos\ETack5_12\ETack5_12\obj\Debug\ETack5_12.pdb

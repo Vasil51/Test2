@@ -1,0 +1,13 @@
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.csprojAssemblyReference.cache
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.AssemblyInfoInputs.cache
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.AssemblyInfo.cs
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.csproj.CoreCompileInputs.cache
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\bin\Debug\netcoreapp3.1\ETack2_8.exe
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\bin\Debug\netcoreapp3.1\ETack2_8.deps.json
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\bin\Debug\netcoreapp3.1\ETack2_8.runtimeconfig.json
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\bin\Debug\netcoreapp3.1\ETack2_8.runtimeconfig.dev.json
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\bin\Debug\netcoreapp3.1\ETack2_8.dll
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\bin\Debug\netcoreapp3.1\ETack2_8.pdb
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.dll
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.pdb
+C:\Users\Учитель\source\repos\ETack2_8\ETack2_8\obj\Debug\netcoreapp3.1\ETack2_8.genruntimeconfig.cache

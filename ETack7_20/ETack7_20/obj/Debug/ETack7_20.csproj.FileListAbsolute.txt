@@ -1,0 +1,7 @@
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\bin\Debug\ETack7_20.exe.config
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\bin\Debug\ETack7_20.exe
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\bin\Debug\ETack7_20.pdb
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\obj\Debug\ETack7_20.csprojAssemblyReference.cache
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\obj\Debug\ETack7_20.csproj.CoreCompileInputs.cache
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\obj\Debug\ETack7_20.exe
+C:\Users\Учитель\source\repos\ETack7_20\ETack7_20\obj\Debug\ETack7_20.pdb

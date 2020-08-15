@@ -1,0 +1,13 @@
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\bin\Debug\netcoreapp3.1\ETack3_10.exe
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\bin\Debug\netcoreapp3.1\ETack3_10.deps.json
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\bin\Debug\netcoreapp3.1\ETack3_10.runtimeconfig.json
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\bin\Debug\netcoreapp3.1\ETack3_10.runtimeconfig.dev.json
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\bin\Debug\netcoreapp3.1\ETack3_10.dll
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\bin\Debug\netcoreapp3.1\ETack3_10.pdb
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.csprojAssemblyReference.cache
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.AssemblyInfoInputs.cache
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.AssemblyInfo.cs
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.csproj.CoreCompileInputs.cache
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.dll
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.pdb
+C:\Users\Учитель\source\repos\ETack3_10\ETack3_10\obj\Debug\netcoreapp3.1\ETack3_10.genruntimeconfig.cache

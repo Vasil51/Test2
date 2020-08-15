@@ -1,0 +1,7 @@
+C:\Users\Учитель\source\repos\ETack2\ETack2\bin\Debug\ETack2.exe.config
+C:\Users\Учитель\source\repos\ETack2\ETack2\bin\Debug\ETack2.exe
+C:\Users\Учитель\source\repos\ETack2\ETack2\bin\Debug\ETack2.pdb
+C:\Users\Учитель\source\repos\ETack2\ETack2\obj\Debug\ETack2.csprojAssemblyReference.cache
+C:\Users\Учитель\source\repos\ETack2\ETack2\obj\Debug\ETack2.csproj.CoreCompileInputs.cache
+C:\Users\Учитель\source\repos\ETack2\ETack2\obj\Debug\ETack2.exe
+C:\Users\Учитель\source\repos\ETack2\ETack2\obj\Debug\ETack2.pdb
